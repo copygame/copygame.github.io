@@ -2536,7 +2536,6 @@ a {
 .cid-tca35RVoSS {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
 }
 .cid-tca35RVoSS .mbr-fallback-image.disabled {
   display: none;
@@ -2549,6 +2548,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/background13.jpg");
 }
 .cid-tca35RVoSS .item {
   display: flex;
